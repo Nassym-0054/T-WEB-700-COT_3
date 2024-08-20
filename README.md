@@ -94,7 +94,6 @@ $ npm run dev
 * Damia Tobossi
 * Uriel WOZUFIA
 
-Project Link: [https://github.com/EpitechMscProPromo2024/T-WEB-700-COT_3](https://github.com/EpitechMscProPromo2024/T-WEB-700-COT_3)
 
 
 
